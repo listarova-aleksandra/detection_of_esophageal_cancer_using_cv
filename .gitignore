@@ -1,0 +1,18 @@
+# Data
+data/raw/
+data/raw/**
+*.tar
+
+# Models
+model/*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
