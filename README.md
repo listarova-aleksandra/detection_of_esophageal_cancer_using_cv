@@ -34,7 +34,7 @@
 > Ниже приведён пример тепловой карты внимания модели, наложенной на исходное гистопатологическое изображение.
 
 <p align="center">
-  <img src="C:/Users/user/Documents/esophageal_cancer_cv/assets/gradcam_example.png" alt="Grad-CAM visualization" width="700">
+  <img src="assets/gradcam_example.png" alt="Grad-CAM visualization" width="700">
 </p>
 
 ---
